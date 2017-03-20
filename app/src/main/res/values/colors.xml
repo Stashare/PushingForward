@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--colors.xml-->
+<resources>
+    <color name="style_color_primary">#00c853</color>
+    <color name="style_color_primary_dark">#01a645</color>
+    <color name="style_color_accent">#01bcd5</color>
+
+
+    <color name="colorPrimary">#00c853</color>
+    <color name="colorPrimaryDark">#01a645</color>
+    <color name="colorAccent">#01bcd5</color>
+
+    <color name="indigo_500">#3f51b5</color>
+    <color name="pink_200">#ff4081</color>
+
+
+    <color name="fab_color_pressed">#007787</color>
+    <color name="fab_color_shadow">#44000000</color>
+
+    <color name="btn_default_light_normal">#00000000</color>
+    <color name="btn_default_light_pressed">#40ffffff</color>
+    <color name="btn_send_normal">#02c754</color>
+    <color name="btn_send_pressed">#006633</color>
+    <color name="btn_default_shadow">#99000000</color>
+    <color name="btn_context_menu_normal">#ffffff</color>
+    <color name="btn_context_menu_pressed">#40000000</color>
+    <color name="btn_context_menu_text_red">#ffff0000</color>
+
+    <color name="text_like_counter">#2b5a83</color>
+
+    <color name="home_background">#a9a9a9</color>
+
+    <color name="bg_comments">#ffffff</color>
+    <color name="bottom_navigation_item_background_colors">#f2f2f2</color>
+</resources>

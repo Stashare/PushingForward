@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_fixtures"
+        android:enabled="true"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/text_fixtures"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_favorites"
+        android:enabled="true"
+        android:icon="@drawable/ic_star_black_24dp"
+        android:title="@string/text_favorites"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_standings"
+        android:enabled="true"
+        android:icon="@drawable/ic_format_list_numbered_black_24dp"
+        android:title="@string/text_standings"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:enabled="true"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/text_settings"
+        app:showAsAction="ifRoom" />
+</menu>
